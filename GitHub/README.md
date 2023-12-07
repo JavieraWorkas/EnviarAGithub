@@ -1,3 +1,3 @@
 # ¡Hola Mundo!
 
-Este es el primer intento para enviar mi repositorio a Github.
+Este es mi primer repositorio para enviar a github
